@@ -1,0 +1,57 @@
+.background-color {
+    background: #6889FF;
+    height: 88vh;
+    width: 100%;
+    top: 7vh;
+    left: 0px;
+    position: absolute;
+    z-index: 1;
+    box-shadow: 1px 4px 20px -10px black
+
+}
+body {
+    background: #ebf7ff;
+
+}
+.img {
+    background: #6889FF;
+    height: 88vh;
+    width: 95%;
+    top: 3.5vh;
+    left: 2.5%;
+    position: absolute;
+    opacity: 0.97;
+    z-index: 2;
+    box-shadow: 1px 4px 20px -10px black
+}
+.links {
+    font-family: 'Titillium Web', 'Roboto',sans-serif;
+    color: black !important;
+    font-size: 3.5vh;
+
+}
+.nav-bar {
+    position: absolute;
+    float: right;
+    left: 68%;
+    top: 1vh;
+
+}
+
+
+.container-home {
+    height: 96vh;
+    width: 100%;
+    position: relative;
+    top: 4vh;
+}
+.title {
+    position: absolute;
+    bottom: 4vh;
+    left: 62%;
+    z-index: 3;
+    color: white;
+    font-weight: 900;
+    font-family: 'Titillium Web', 'Roboto',sans-serif;
+    font-size: 8vh;
+}
